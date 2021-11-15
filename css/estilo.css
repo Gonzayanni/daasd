@@ -262,7 +262,7 @@ footer{
 
 
 .contact-us{
-    width: 80%;
+    width: 70%;
     color: #fff;
     
 
@@ -283,7 +283,7 @@ footer{
 
 
 .social-media{
-    margin: 3px;
+    margin: 6px;
     display: flex;
     justify-content: flex-end;
     text-align: center;
