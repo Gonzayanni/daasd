@@ -359,17 +359,14 @@ line-height: 60px;
         
     /* } */
     .titulo{
-        font-size: 25px;
-        text-align: center;
+        font-size: 2px;
+       
 
         
 
     }
 
-    .copy{
-        text-align: center;
-        font-size:16px;
-    }
+    
     .contenedor-servicio img{
         width: 80%;
         margin-bottom: 40px;
