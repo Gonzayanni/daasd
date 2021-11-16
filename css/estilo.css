@@ -194,7 +194,7 @@ header{
 .show{
     transform: translate(0);
 }
- 
+
 .agregar-imagen{
     object-fit: cover;
     width: 60%;
@@ -360,8 +360,15 @@ line-height: 60px;
     /* } */
     .titulo{
         font-size: 40px;
+        text-align: center;
+
         
 
+    }
+
+    .copy{
+        text-align: center;
+        font-size:30px;
     }
     .contenedor-servicio img{
         width: 80%;
